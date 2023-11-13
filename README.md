@@ -10,7 +10,7 @@ Major components of the kernel that I implemented (~6K lines of code) include:
 - **FS:** Virtual file system (VFS) and System V file system (S5FS);
 - **VM:** Virtual memory management that supports file-backed and anonymous memory mapping, copy-on-write fork with shadow memory objects, and page fault handling.
 
-To respect Brown's [Academic Code](https://college.brown.edu/sites/default/files/2022-04/Academic-Code.pdf), this repo only serves as a placeholder and does not contain the actual implementation of the kernel. Please reach out to me if you wish to look at the code. (Provided you're not a Brown student who's taking OS, of course.)
+To respect Brown's [Academic Code](https://college.brown.edu/sites/default/files/2022-04/Academic-Code.pdf), this repo only serves as a placeholder and does not contain the actual implementation of the kernel. Please reach out to me if you'd like to take a look at the actual codebase. (Provided you're not a Brown student who's taking OS, of course.)
 
 ## screenshots
 
