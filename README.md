@@ -16,10 +16,10 @@ To respect Brown's [Academic Code](https://college.brown.edu/sites/default/files
 
 ![shell](screenshots/shell.png)
 
-![fs](C:\Users\jamie\Desktop\os_ss\weenix\screenshots\fs.png)
+![fs](screenshots/fs.png)
 
-![filestat](C:\Users\jamie\Desktop\os_ss\weenix\screenshots\filestat.png)
+![filestat](screenshots/filestat.png)
 
-![tests](C:\Users\jamie\Desktop\os_ss\weenix\screenshots\tests.png)
+![tests](screenshots/tests.png)
 
-![halt](C:\Users\jamie\Desktop\os_ss\weenix\screenshots\halt.png)
+![halt](screenshots/halt.png)
