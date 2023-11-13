@@ -2,7 +2,7 @@
 
 ![cowsay2](screenshots/cowsay2.png)
 
-A Unix-like operating system kernel, built as a semester-long project for the course [Operating Systems](https://brown-cs1690.github.io/brown-cs167-s23/) (CSCI2670) at Brown University. Check out [this](https://github.com/brown-cs1690/handout/wiki) Wiki page if you'd like to know more about Weenix (and other course assignments.)
+A Unix-like operating system kernel, built as a semester-long project for the graduate level course [Operating Systems](https://brown-cs1690.github.io/brown-cs167-s23/) (CSCI2670) at Brown University. Check out [this](https://github.com/brown-cs1690/handout/wiki) Wiki page if you'd like to know more about Weenix (and other course assignments.)
 
 Major components of the kernel that I implemented (~6K lines of code) include:
 - **Proc:** Kernel threads, context switching, processes, and synchronization primitives;
